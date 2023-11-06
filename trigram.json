@@ -1,0 +1,42 @@
+{
+  "1": {
+    "symbol": "☰",
+    "bagua": "乾",
+    "element": "金"
+  },
+  "2": {
+    "symbol": "☱",
+    "bagua": "兑",
+    "element": "金"
+  },
+  "3": {
+    "symbol": "☲",
+    "bagua": "离",
+    "element": "火"
+  },
+  "4": {
+    "symbol": "☳",
+    "bagua": "震",
+    "element": "木"
+  },
+  "5": {
+    "symbol": "☴",
+    "bagua": "巽",
+    "element": "木"
+  },
+  "6": {
+    "symbol": "☵",
+    "bagua": "坎",
+    "element": "水"
+  },
+  "7": {
+    "symbol": "☶",
+    "bagua": "艮",
+    "element": "土"
+  },
+  "8": {
+    "symbol": "☷",
+    "bagua": "坤",
+    "element": "土"
+  }
+}
